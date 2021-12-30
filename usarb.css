@@ -256,7 +256,7 @@ h3{
   max-width: 1170px;
   margin: auto;
 }
-.row{
+.footer-row{
   display: flex;
   flex-wrap: wrap;
 }
