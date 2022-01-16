@@ -406,6 +406,9 @@ ul{
   text-indent: 30px;
   list-style-type: none;
 }
+#link{
+  color: #999;
+}
 .blog-right{
   flex-basis: 32%;
 }
